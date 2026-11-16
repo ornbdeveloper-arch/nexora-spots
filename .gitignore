@@ -1,0 +1,22 @@
+# Materiais originais e relatórios internos (não publicáveis)
+/entrada/
+/internal/
+
+# Artefatos corporativos preservados na raiz por exigência de integridade
+/*.msapp
+/*MB Spot*.html
+/*MBSPOTS*.zip
+/Configurações de Salas e Recursos.png
+/Email Nexora_ Reunião Cancelada.png
+/Página Minhas Reservas NexoraSpots.png
+/Painel NEXORA SPOTS em tempo real.png
+/Painel Nexora Spots_ Gestão de Salas.png
+/Tela de Criação de Reservas NexoraSpots.png
+
+# Arquivos locais e temporários
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+.vscode/
+.idea/
